@@ -1,5 +1,5 @@
-import Title from "./components/Title";
-import Card from "./components/Card";
+import Title from "../components/Title";
+import Card from "../components/Card";
 
 const CarrosPage = () => {
     return (
