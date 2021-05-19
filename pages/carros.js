@@ -14,6 +14,10 @@ const CarrosPage = () => {
                     ))}
                 </ul>
             </section>
+            <img
+                className="w-32 h-32 md:w-48 md:h-auto rounded-full mx-auto"
+                src="https://i.pravatar.cc/200"
+            ></img>
         </div>
     );
 };
