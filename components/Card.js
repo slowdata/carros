@@ -1,6 +1,9 @@
 const Card = ({ carro }) => {
     return (
-        <div className="flex flex-col w-full h-36 p-4 bg-blue-100 border border-blue-400 rounded-lg">
+        <div
+            className="flex flex-col w-full h-36 p-4 bg-blue-100 border
+         border-blue-400 rounded-lg shadow-lg"
+        >
             <h3>{carro.marca}</h3>
 
             <ul>
